@@ -65,11 +65,15 @@ h2{
 .ms_color_h2{
 	margin-top: 50px;
 }
-.ms_color_h2 h2,div{
+.ms_color_h2{
 	color: white;
 	text-align: center;
 }
 .ms_test-mio{
 	margin-bottom: 20px;
 	border: 1px solid black;
+}
+.ms_titolo-contact{
+	text-align: center;
+	margin-top: 50px;
 }
