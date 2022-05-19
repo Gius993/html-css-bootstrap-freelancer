@@ -35,4 +35,18 @@ ul{
 h2{
 	margin-bottom: 1rem;
 }
+/***jumb*****/
+.bg_green{
+	background-color: mediumseagreen;
+	width: 100%;
+}
+.banner_fix{
+	width: 50%;
+	/*test**/
+	height: 40vh;
+	background-color: chocolate;
+	/*******/
+	margin: 0 auto;
+}
+
 /**********main********/
