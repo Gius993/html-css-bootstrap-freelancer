@@ -62,3 +62,14 @@ h2{
 	/**test**/
 	height: 300px;
 }
+.ms_color_h2{
+	margin-top: 50px;
+}
+.ms_color_h2 h2,div{
+	color: white;
+	text-align: center;
+}
+.ms_test-mio{
+	margin-bottom: 20px;
+	border: 1px solid black;
+}
