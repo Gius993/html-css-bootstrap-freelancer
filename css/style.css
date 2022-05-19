@@ -13,25 +13,26 @@ ul{
 
 
 /*footer*******/
-.container-mio{
+.ms_container-mio{
 	padding: 1rem;
 }
-.container-mio ul, h2{
+.ms_container-mio ul, h2{
 	margin: 0px;
 	padding: 0px;
 }
-.comand-footer{
+.ms_comand-footer{
 	display: flex;
 	justify-content: space-around;
 	align-items: center;
 }
-.comand-footer ul{
+.ms_comand-footer ul{
 	display: flex;
 	align-items: center;
 }
-.comand-footer li{
+.ms_comand-footer li{
 	margin-left: 15px;
 }
 h2{
 	margin-bottom: 1rem;
 }
+/**********main********/
