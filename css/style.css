@@ -1,0 +1,37 @@
+/*****reset personali******/
+header{
+	width: 100%;
+	background-color: #2c3e50;
+	color: white;
+}
+ul{
+	list-style-type: none;
+}
+
+
+/******************************/
+
+
+/*footer*******/
+.container-mio{
+	padding: 1rem;
+}
+.container-mio ul, h2{
+	margin: 0px;
+	padding: 0px;
+}
+.comand-footer{
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+.comand-footer ul{
+	display: flex;
+	align-items: center;
+}
+.comand-footer li{
+	margin-left: 15px;
+}
+h2{
+	margin-bottom: 1rem;
+}
