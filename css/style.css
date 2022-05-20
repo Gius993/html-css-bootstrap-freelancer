@@ -11,7 +11,9 @@ ul{
 	width: 50%;
 	margin: 0 auto;
 }
-
+a{
+	font-style: none;
+}
 /******************************/
 
 
@@ -40,27 +42,39 @@ h2{
 }
 /***jumb*****/
 .bg_green{
-	background-color: mediumseagreen;
+	background-color: #1abc9c;
 	width: 100%;
 }
 .banner_fix{
-	width: 50%;
-	/*test**/
-	height: 40vh;
-	background-color: chocolate;
-	/*******/
 	margin: 0 auto;
 }
-
+.img_titolo{
+	width:  30%;
+	margin: 0 auto;
+}
+img{
+	width: 100%;
+}
+.titolo_ju{
+	text-align: center;
+}
+.list_ju{
+	font-size: 20px;
+}
+.list_ju ul{
+	display: flex;
+	justify-content: center;
+}
+.list_ju li{
+	margin-right: 2rem;
+	
+}
 /**********main********/
 .title_main{
 	text-align: center;
 }
 .ms_backcol{
-	background-color: crimson;
-	border: 1px solid black;
-	/**test**/
-	height: 300px;
+	margin-top: 2rem;
 }
 .ms_color_h2{
 	margin-top: 50px;
@@ -71,9 +85,16 @@ h2{
 }
 .ms_test-mio{
 	margin-bottom: 20px;
-	border: 1px solid black;
 }
 .ms_titolo-contact{
 	text-align: center;
 	margin-top: 50px;
+}
+
+
+/*******color**/
+.button_color{
+	color:white;
+	border: 1px solid white;
+	margin: 2rem;
 }
